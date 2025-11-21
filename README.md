@@ -1,2 +1,2 @@
-# the_learning_methods
+# The Learning Methods
 学习方法总结
